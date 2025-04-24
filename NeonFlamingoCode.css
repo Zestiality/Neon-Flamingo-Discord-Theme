@@ -560,7 +560,7 @@ body:has(#app-mount)::after {
 	top: 0;
 	left: 0;
 	height: var(--custom-app-top-bar-height);
-	width: 100%;
+	width: 0%;
 	background-color: rgba(var(--transparencycolor_v), calc(0.1 + var(--guildchanneltransparency_v) * 2));
 }
 .platform-osx .wrapper_ef3116 {
